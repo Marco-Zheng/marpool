@@ -1,0 +1,48 @@
+2019-11-30 17:12:26 INFO  ThreadPoolTest:32 - 休眠前线程活跃数:[3]
+2019-11-30 17:12:31 INFO  ThreadPoolTest:34 - 休眠后线程活跃数:[3]
+2019-11-30 17:13:25 INFO  ThreadPoolTest:32 - 休眠前线程活跃数:[3]
+2019-11-30 17:13:30 INFO  ThreadPoolTest:34 - 休眠后线程活跃数:[3]
+2019-11-30 17:16:10 ERROR CustomThreadPool:135 - Exceeding the max thread size!
+2019-11-30 17:16:10 DEBUG DefaultRejectHandler:27 - Task execution queued
+2019-11-30 17:16:10 ERROR CustomThreadPool:135 - Exceeding the max thread size!
+2019-11-30 17:16:10 DEBUG DefaultRejectHandler:27 - Task execution queued
+2019-11-30 17:16:10 ERROR CustomThreadPool:135 - Exceeding the max thread size!
+2019-11-30 17:16:10 DEBUG DefaultRejectHandler:27 - Task execution queued
+2019-11-30 17:16:10 ERROR CustomThreadPool:135 - Exceeding the max thread size!
+2019-11-30 17:16:10 DEBUG DefaultRejectHandler:27 - Task execution queued
+2019-11-30 17:16:10 INFO  ThreadPoolTest:27 - 休眠前线程活跃数:[5]
+2019-11-30 17:16:11 INFO  CustomThreadPool:347 - current thread is removed, the rest number of workers is 4
+2019-11-30 17:16:12 INFO  CustomThreadPool:347 - current thread is removed, the rest number of workers is 3
+2019-11-30 17:16:15 INFO  ThreadPoolTest:29 - 休眠后线程活跃数:[3]
+2019-11-30 17:16:16 INFO  CustomThreadPool:347 - current thread is removed, the rest number of workers is 4
+2019-11-30 17:16:17 INFO  CustomThreadPool:347 - current thread is removed, the rest number of workers is 3
+2019-12-01 13:34:52 ERROR CustomThreadPool:135 - Exceeding the max thread size!
+2019-12-01 13:34:52 DEBUG DefaultRejectHandler:27 - Task execution queued
+2019-12-01 13:34:52 ERROR CustomThreadPool:135 - Exceeding the max thread size!
+2019-12-01 13:34:52 DEBUG DefaultRejectHandler:27 - Task execution queued
+2019-12-01 13:34:52 ERROR CustomThreadPool:135 - Exceeding the max thread size!
+2019-12-01 13:34:52 DEBUG DefaultRejectHandler:27 - Task execution queued
+2019-12-01 13:34:52 INFO  ThreadPoolTest:27 - 休眠前线程活跃数:[5]
+2019-12-01 13:34:53 INFO  CustomThreadPool:343 - current thread is removed, the rest number of workers is 4
+2019-12-01 13:34:54 INFO  CustomThreadPool:343 - current thread is removed, the rest number of workers is 3
+2019-12-01 13:34:57 INFO  ThreadPoolTest:29 - 休眠后线程活跃数:[3]
+2019-12-01 13:34:58 INFO  CustomThreadPool:343 - current thread is removed, the rest number of workers is 3
+2019-12-01 13:35:28 ERROR CustomThreadPool:135 - Exceeding the max thread size!
+2019-12-01 13:35:28 DEBUG DefaultRejectHandler:27 - Task execution queued
+2019-12-01 13:35:28 ERROR CustomThreadPool:135 - Exceeding the max thread size!
+2019-12-01 13:35:28 DEBUG DefaultRejectHandler:27 - Task execution queued
+2019-12-01 13:35:28 ERROR CustomThreadPool:135 - Exceeding the max thread size!
+2019-12-01 13:35:28 DEBUG DefaultRejectHandler:27 - Task execution queued
+2019-12-01 13:35:28 ERROR CustomThreadPool:135 - Exceeding the max thread size!
+2019-12-01 13:35:28 DEBUG DefaultRejectHandler:27 - Task execution queued
+2019-12-01 13:35:28 INFO  ThreadPoolTest:27 - 休眠前线程活跃数:[5]
+2019-12-01 13:35:29 INFO  CustomThreadPool:343 - current thread is removed, the rest number of workers is 4
+2019-12-01 13:35:30 INFO  CustomThreadPool:343 - current thread is removed, the rest number of workers is 3
+2019-12-01 13:35:31 INFO  CustomThreadPool:343 - current thread is removed, the rest number of workers is 2
+2019-12-01 13:35:33 INFO  ThreadPoolTest:29 - 休眠后线程活跃数:[2]
+2019-12-01 13:35:33 INFO  ThreadPoolTest:33 - 最终线程活跃数:[4]
+2019-12-01 13:35:33 INFO  ThreadPoolTest:34 - ----------------end------------------
+2019-12-01 13:36:22 INFO  ThreadPoolTest:27 - 休眠前线程活跃数:[3]
+2019-12-01 13:36:27 INFO  ThreadPoolTest:29 - 休眠后线程活跃数:[3]
+2019-12-01 13:36:27 INFO  ThreadPoolTest:33 - 最终线程活跃数:[3]
+2019-12-01 13:36:27 INFO  ThreadPoolTest:34 - ----------------end------------------
